@@ -1,4 +1,6 @@
 {
   "name": "todo",
-  "displayName": "todo"
+  "displayName": "todo",
+  
+  "sdkVersion": "40.0.0"
 }
